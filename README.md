@@ -1,3 +1,4 @@
+## :star2:  :star2: :star2:  Meets Specifcations    :star2:  :star2: :star2:
 # Gradle for Android and Java Final Project
 
 In this project, I created an app with multiple flavors that uses
